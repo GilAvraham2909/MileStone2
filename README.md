@@ -1,4 +1,4 @@
-#Milestone 2
+# Milestone 2
 
 ## About
 This program revolves around the server client structure. in general this is a search engine for a given problem.  In this project we are given a Matrix NxN which is built from numbers that are inputted to our sever by the client. our job is to analyze the matrix is to find the fastest and cheapest way from a given starting point to the given destination point.
